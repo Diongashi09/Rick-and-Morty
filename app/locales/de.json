@@ -1,0 +1,23 @@
+{
+  "title": "Rick und Morty Charaktere",
+  "allStatus": "Alle Status",
+  "allSpecies": "Alle Spezies",
+  "gender": "Geschlecht",
+  "origin": "Herkunft",
+  "loading": "Lädt...",
+  "language": "Sprache",
+  "applyFilters": "Filter Anwenden",
+  "sortByName": "Nach Name Sortieren",
+  "sortByOrigin": "Nach Herkunft Sortieren",
+  "sortAscending": "⬆️ A-Z",
+  "sortDescending": "⬇️ Z-A",
+  "filterStatus": "Nach Status Filtern",
+  "filterSpecies": "Nach Spezies Filtern",
+  "noResults": "Keine Ergebnisse gefunden.",
+  "loadMore": "Mehr Laden",
+  "alive": "Lebendig",
+  "dead": "Tot",
+  "unknown": "Unbekannt",
+  "human": "Mensch",
+  "alien": "Außerirdischer"
+}
