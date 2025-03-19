@@ -17,7 +17,7 @@ A character explorer app built with Next.js, Apollo Client, GraphQL, and Tailwin
 3. Install dependecies:
    npm install
 4. Run the development server:
-   npm run dev
+   npm start
 
 ## Technologies Used:
 Next.js
